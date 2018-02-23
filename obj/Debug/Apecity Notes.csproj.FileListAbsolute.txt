@@ -1,0 +1,176 @@
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\bin\Debug\Apecity Notes.exe.config
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\bin\Debug\Apecity Notes.exe
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\bin\Debug\Apecity Notes.pdb
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Apecity Notes.csprojResolveAssemblyReference.cache
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\MainWindow.g.cs
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\App.g.cs
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.cache
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.lref
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\MainWindow.baml
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Apecity Notes.g.resources
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Apecity_Notes.Properties.Resources.resources
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Apecity Notes.csproj.GenerateResource.Cache
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Apecity Notes.csproj.CoreCompileInputs.cache
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Apecity Notes.exe
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Apecity Notes.pdb
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Chinese.g.cs
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Chinese.baml
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Math.g.cs
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Math.baml
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\English.g.cs
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\English.baml
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Physics.g.cs
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Physics.baml
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Chemistry.g.cs
+C:\Users\yys20\source\repos\Apecity Notes\Apecity Notes\obj\Debug\Chemistry.baml
+E:\Apecity-master\Apecity Notes\bin\Debug\Apecity Notes.exe.config
+E:\Apecity-master\Apecity Notes\bin\Debug\Apecity Notes.exe
+E:\Apecity-master\Apecity Notes\bin\Debug\Apecity Notes.pdb
+E:\Apecity-master\Apecity Notes\bin\Debug\MahApps.Metro.dll
+E:\Apecity-master\Apecity Notes\bin\Debug\System.Windows.Interactivity.dll
+E:\Apecity-master\Apecity Notes\bin\Debug\MahApps.Metro.pdb
+E:\Apecity-master\Apecity Notes\bin\Debug\MahApps.Metro.xml
+E:\Apecity-master\Apecity Notes\obj\Debug\Apecity Notes.csprojResolveAssemblyReference.cache
+E:\Apecity-master\Apecity Notes\obj\Debug\Chemistry.g.cs
+E:\Apecity-master\Apecity Notes\obj\Debug\Chinese.g.cs
+E:\Apecity-master\Apecity Notes\obj\Debug\English.g.cs
+E:\Apecity-master\Apecity Notes\obj\Debug\MainWindow.g.cs
+E:\Apecity-master\Apecity Notes\obj\Debug\Math.g.cs
+E:\Apecity-master\Apecity Notes\obj\Debug\Physics.g.cs
+E:\Apecity-master\Apecity Notes\obj\Debug\App.g.cs
+E:\Apecity-master\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.cache
+E:\Apecity-master\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.lref
+E:\Apecity-master\Apecity Notes\obj\Debug\App.baml
+E:\Apecity-master\Apecity Notes\obj\Debug\Chemistry.baml
+E:\Apecity-master\Apecity Notes\obj\Debug\Chinese.baml
+E:\Apecity-master\Apecity Notes\obj\Debug\English.baml
+E:\Apecity-master\Apecity Notes\obj\Debug\MainWindow.baml
+E:\Apecity-master\Apecity Notes\obj\Debug\Math.baml
+E:\Apecity-master\Apecity Notes\obj\Debug\Physics.baml
+E:\Apecity-master\Apecity Notes\obj\Debug\Apecity Notes.g.resources
+E:\Apecity-master\Apecity Notes\obj\Debug\Apecity_Notes.Properties.Resources.resources
+E:\Apecity-master\Apecity Notes\obj\Debug\Apecity Notes.csproj.GenerateResource.Cache
+E:\Apecity-master\Apecity Notes\obj\Debug\Apecity Notes.csproj.CoreCompileInputs.cache
+E:\Apecity-master\Apecity Notes\obj\Debug\Apecity Notes.exe
+E:\Apecity-master\Apecity Notes\obj\Debug\Apecity Notes.pdb
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\bin\Debug\Apecity Notes.exe.config
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\bin\Debug\Apecity Notes.exe
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\bin\Debug\Apecity Notes.pdb
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\bin\Debug\MahApps.Metro.dll
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\bin\Debug\MahApps.Metro.pdb
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\bin\Debug\MahApps.Metro.xml
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Apecity Notes.csprojResolveAssemblyReference.cache
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Chinese.g.cs
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\MainWindow.g.cs
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\App.g.cs
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.cache
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.lref
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\App.baml
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Chinese.baml
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\MainWindow.baml
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Apecity Notes.g.resources
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Apecity_Notes.Properties.Resources.resources
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Apecity Notes.csproj.GenerateResource.Cache
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Apecity Notes.csproj.CoreCompileInputs.cache
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Apecity Notes.exe
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Apecity Notes.pdb
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Math.g.cs
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Math.baml
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\English.g.cs
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\English.baml
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Physics.g.cs
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Physics.baml
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Chemistry.g.cs
+C:\Users\yys20\Downloads\Apecity.note-master\Apecity.note-master\Apecity Notes\obj\Debug\Chemistry.baml
+D:\新建文件夹\Apecity Notes\bin\Debug\Apecity Notes.exe.config
+D:\新建文件夹\Apecity Notes\bin\Debug\Apecity Notes.exe
+D:\新建文件夹\Apecity Notes\bin\Debug\Apecity Notes.pdb
+D:\新建文件夹\Apecity Notes\bin\Debug\MahApps.Metro.dll
+D:\新建文件夹\Apecity Notes\bin\Debug\System.Windows.Interactivity.dll
+D:\新建文件夹\Apecity Notes\bin\Debug\MahApps.Metro.pdb
+D:\新建文件夹\Apecity Notes\bin\Debug\MahApps.Metro.xml
+D:\新建文件夹\Apecity Notes\obj\Debug\Apecity Notes.csprojResolveAssemblyReference.cache
+D:\新建文件夹\Apecity Notes\obj\Debug\Chemistry.g.cs
+D:\新建文件夹\Apecity Notes\obj\Debug\Chinese.g.cs
+D:\新建文件夹\Apecity Notes\obj\Debug\English.g.cs
+D:\新建文件夹\Apecity Notes\obj\Debug\MainWindow.g.cs
+D:\新建文件夹\Apecity Notes\obj\Debug\Math.g.cs
+D:\新建文件夹\Apecity Notes\obj\Debug\Physics.g.cs
+D:\新建文件夹\Apecity Notes\obj\Debug\App.g.cs
+D:\新建文件夹\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.cache
+D:\新建文件夹\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.lref
+D:\新建文件夹\Apecity Notes\obj\Debug\App.baml
+D:\新建文件夹\Apecity Notes\obj\Debug\Chemistry.baml
+D:\新建文件夹\Apecity Notes\obj\Debug\Chinese.baml
+D:\新建文件夹\Apecity Notes\obj\Debug\English.baml
+D:\新建文件夹\Apecity Notes\obj\Debug\MainWindow.baml
+D:\新建文件夹\Apecity Notes\obj\Debug\Math.baml
+D:\新建文件夹\Apecity Notes\obj\Debug\Physics.baml
+D:\新建文件夹\Apecity Notes\obj\Debug\Apecity Notes.g.resources
+D:\新建文件夹\Apecity Notes\obj\Debug\Apecity_Notes.Properties.Resources.resources
+D:\新建文件夹\Apecity Notes\obj\Debug\Apecity Notes.csproj.GenerateResource.Cache
+D:\新建文件夹\Apecity Notes\obj\Debug\Apecity Notes.csproj.CoreCompileInputs.cache
+D:\新建文件夹\Apecity Notes\obj\Debug\Apecity Notes.exe
+D:\新建文件夹\Apecity Notes\obj\Debug\Apecity Notes.pdb
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\bin\Debug\Apecity Notes.exe.config
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\bin\Debug\Apecity Notes.exe
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\bin\Debug\Apecity Notes.pdb
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\bin\Debug\MahApps.Metro.dll
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\bin\Debug\MahApps.Metro.pdb
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\bin\Debug\MahApps.Metro.xml
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Apecity Notes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Chemistry.g.cs
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Chinese.g.cs
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\English.g.cs
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Math.g.cs
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Physics.g.cs
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.cache
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.lref
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\App.baml
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Chemistry.baml
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Chinese.baml
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\English.baml
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Math.baml
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Physics.baml
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Apecity Notes.g.resources
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Apecity_Notes.Properties.Resources.resources
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Apecity Notes.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Apecity Notes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Apecity Notes.exe
+C:\Users\Admin\Documents\GitHub\Apecity\Apecity Notes\obj\Debug\Apecity Notes.pdb
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\bin\Debug\Apecity Notes.exe.config
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\bin\Debug\Apecity Notes.exe
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\bin\Debug\Apecity Notes.pdb
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\bin\Debug\MahApps.Metro.dll
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\bin\Debug\MahApps.Metro.pdb
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\bin\Debug\MahApps.Metro.xml
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Apecity Notes.csprojResolveAssemblyReference.cache
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Chemistry.g.cs
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Chinese.g.cs
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\English.g.cs
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\MainWindow.g.cs
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Math.g.cs
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Physics.g.cs
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\App.g.cs
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.cache
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Apecity Notes_MarkupCompile.lref
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\App.baml
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Chemistry.baml
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Chinese.baml
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\English.baml
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\MainWindow.baml
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Math.baml
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Physics.baml
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Apecity Notes.g.resources
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Apecity_Notes.Properties.Resources.resources
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Apecity Notes.csproj.GenerateResource.Cache
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Apecity Notes.csproj.CoreCompileInputs.cache
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Apecity Notes.exe
+C:\Users\yys20\Documents\Tencent Files\2264453299\FileRecv\Apecity\Apecity Notes\obj\Debug\Apecity Notes.pdb
